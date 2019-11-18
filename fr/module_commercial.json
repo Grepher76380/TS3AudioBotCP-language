@@ -1,0 +1,19 @@
+{
+    "com_base": {
+        "m_sidebar": "Ballance",
+        "m_page": "Ballance"
+    },
+    "balance": {
+        "m_balance_current": "Ballance",
+        "m_balance_text": "S'il vous plaît entrer le montant que vous souhaitez ajouter à votre compte",
+        "m_balance_invoice_history": "Factures",
+        "m_balance_invoice_history_text": "Ce sont toutes vos factures",
+        "m_balance_invoice_paymentid": "ID-Facture",
+        "m_balance_invoice_amount": "Montant",
+        "m_balance_invoice_date": "Date",
+        "m_balance_noinvoices": "Pas encore de factures"
+    },
+    "balance_bot_new": {
+        "m_invalid_balance": "Vous n'avez pas assez de fonds pour acheter un bot !"
+    }
+}
