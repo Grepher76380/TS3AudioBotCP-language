@@ -37,7 +37,7 @@
         "m_new_text": "Créer un nouveau bot",
         "m_new_nickname": "Pseudo",
         "m_new_connectto": "IP",
-        "m_new_btn": "Acheter",
+        "m_new_btn": "Créer un bot",
         "m_b_empty": "Merci de compléter tous les champs !",
         "m_b_invalid": "Veuillez entrer une adresse IPv4 valide",
         "m_b_botlimit": "Vous avez atteint votre limite !",
